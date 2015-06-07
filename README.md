@@ -1,2 +1,2 @@
 # mynoty
-notification app
+everything notification app
