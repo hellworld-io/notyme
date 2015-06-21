@@ -21,8 +21,8 @@
 	- 우산 알림.
 	- 우천시 우산을 챙기라는 알림.
 	- 나처럼 날씨 체크를 제대로 못하는 사람을 위한 귀차니즘 제거용.
-	- 날씨 API
-		- [openweathermap](http://openweathermap.org/API)
+		- 날씨 API 사용하여 날씨 정보 가져오기
+			- [openweathermap](http://openweathermap.org/API)
 
 ## Dev
 
