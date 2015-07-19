@@ -1,9 +1,11 @@
-# NotyMe
+# one day, once, one project by 111
+
+## NotyMe
 - 개인형 알림 서비스.
 - 다음날 챙길것들을 까먹지 말자.
 
 
-## Why?
+### Why?
 
 - 나만을 위한 알림 서비스.
     - 우산 챙길 정신머리가 없어서..ㅠㅠ
@@ -16,7 +18,7 @@
 	- 개발의 감각을 잃어 버리지 않기 위한 몸부림.
 	- 해보고 싶은 아이디어가 생기면 적용할 수 있는 바탕을 만들기.
 
-## Functions
+### Functions
 - 1차
 	- 우산 알림.
 	- 우천시 우산을 챙기라는 알림.
@@ -30,15 +32,15 @@
         - 날씨 정보 조회
         - 푸쉬
 
-## Dev
+### Dev 
 
 ![전체 구성도](./docImg/NotyMe.png)
 
-### Server
+#### Server
 
-### DB
+#### DB
 
-### UI
+#### UI
 
 - App
 	- ios
@@ -46,7 +48,7 @@
 	- mail
 	- SNS
 
-### 화면 설계
+#### 화면 설계
 
 * Intro Page
 ![전체 구성도](./docImg/notyme_Intro_Page.png)
