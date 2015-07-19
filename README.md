@@ -46,3 +46,7 @@
 	- mail
 	- SNS
 
+### 화면 설계
+
+* Intro Page
+![전체 구성도](./docImg/notyme_Intro_Page.png)
